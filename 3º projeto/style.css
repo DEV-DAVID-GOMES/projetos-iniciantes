@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.fundo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 2000px;
+    background-color: #f3e5d8
+    
+}
+
+.container{
+    width: 500px;
+   height: 1550px;
+   background-color: rgb(255, 255, 255);
+   border-radius: 20px;
+
+}
+#omelete{
+   width: 430px;
+   height: auto;
+   border-radius: 20px;
+   margin-left: 35px;
+   margin-top: 35px;
+}
+
+#paragrafo1{
+    text-align: center left;
+    margin-left: 35px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #2e2d2b;
+    margin-bottom: 0 ;
+
+}
+
+#paragrafo2{
+    color: gray;
+    margin-left: 35px;
+    font-size: 12px;
+    margin-top: 0;
+    
+}
+
+#fundoroxo{
+   margin-left: 35px;
+    margin-top: 30px;
+    background-color:#fff7fc;
+    width: 430px;
+    height: 150px;
+    border-radius: 13px;
+    
+
+}
+
+#tempoPreparo{
+    margin-left: -20px;
+    position: relative;
+    top: 15px;
+    color: #712f4a;
+    font-weight: bold;
+    
+}
+
+#l1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 26px;
+}
+
+#l2{
+    margin-bottom: 10px;
+    margin-left: 26px;
+
+}
+
+#l3{
+    margin-left: 26px;
+
+}
+
+#paragrafo3{
+    font-size: 25px;
+    color: #78493c;
+    position: relative;
+    top: 15px;
+    font-weight: 550;
+}
+
+#lista{
+    position: relative;
+    right: 20px;
+    color: rgba(0, 0, 0, 0.793);
+}
+
+#paragrafo4{
+    font-size: 25px;
+    color: #78493c;
+    position: relative;
+    top: 15px;
+    font-weight: 550;
+}
+
+pp{
+    color: gray;
+}
+
+#nomepreto{
+    color: rgba(0, 0, 0, 0.774);
+}
+
+#enumeracao{
+    color: #78493c;
+    margin-right: 14px;
+}
+
+#paragrafo5{
+    font-size: 25px;
+    color: #78493c;
+    position: relative;
+    top: 15px;
+    font-weight: 550;
+}
+
+#espaco{
+    position: relative;
+    left: 200px;
+    color: #78493c;
+}
+
+#espaco2{
+    position: relative;
+    left: 212px;
+    color: #78493c;
+}
+
+#espaco3{
+    position: relative;
+    left: 200px;
+    color: #78493c;
+}
+
+#espaco4{
+    position: relative;
+    left: 225px;
+    color: #78493c;
+}
+
